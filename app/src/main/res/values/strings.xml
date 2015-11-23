@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">MusicPlayer</string>
+<string name="app_name">音乐播放</string>
+<string name="ready_start">正在启动...</string>
+<string name="no_music">没有发现歌曲...</string>
+<string name="music_name">歌曲的名称</string>
+<string name="music_duration">歌曲的长度</string>
+<string name="music_size">歌曲的大小</string>
+<string name="music_play_finish">歌曲播放完成</string>
+<string name="musico_play_error">歌曲播放出错</string>
+<string name="player_name">123音乐(系统推荐)</string>
 </resources>
